@@ -1,0 +1,3 @@
+# GSSAPITest
+
+GoogleスプレッドシートのAPIを呼び出すテスト用Visual Studioプロジェクト
